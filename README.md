@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/l0k8ynqm1vork9hy?svg=true)](https://ci.appveyor.com/project/AndreyKorolevich/env-homwork-ajsb)
 **Важно**: все задачи к данной лекции можно выполнить в виде одного репозитория (т.е. допускается не делать отдельные репозитории на каждую задачу).
 
 ---
